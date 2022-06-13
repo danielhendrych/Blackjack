@@ -1,0 +1,24 @@
+body {
+    font-family: Open Sans, sans-serif; 
+    background-image: url("images/table.png");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: gold
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    background-color: gold;
+    border-radius: 5px;
+    margin-bottom: 10px;   
+}
